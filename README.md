@@ -16,6 +16,7 @@ Questa repository raccoglie le mie soluzioni ai problemi di LeetCode, scritte in
 |-----|----------------------------------|-------------------------------|----------------------------------|
 | 1   | Length of Last Word             | `lastWordLength.js`        | Stringhe, `.trim()`, `.split()` |
 | 2   | Create Counter        | `counter.js`    | Closure, funzioni annidate, incremento|
+| 3   | To Be or Not To Be    | `toBeOrNotToBe.js`     | Controllo condizioni, Error handling, Confronti stretti (`===`, `!==`) |
 | …   | *(Altri problemi verranno aggiunti)* |                               |                                  |
 
 ---
