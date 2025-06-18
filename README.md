@@ -14,7 +14,8 @@ Questa repository raccoglie le mie soluzioni ai problemi di LeetCode, scritte in
 
 | #   | Problema                        | File                         | Concetti allenati               |
 |-----|----------------------------------|-------------------------------|----------------------------------|
-| 1   | Length of Last Word             | `lengthOfLastWord.js`        | Stringhe, `.trim()`, `.split()` |
+| 1   | Length of Last Word             | `lastWordLength.js`        | Stringhe, `.trim()`, `.split()` |
+| 2   | Create Counter        | `counter.js`    | Closure, funzioni annidate, incremento|
 | …   | *(Altri problemi verranno aggiunti)* |                               |                                  |
 
 ---
