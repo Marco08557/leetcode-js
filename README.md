@@ -20,14 +20,6 @@ Questa repository raccoglie le mie soluzioni ai problemi di LeetCode, scritte in
 
 ---
 
-## 📂 Struttura della Repository
-
-leetcode-js/
-├── lengthOfLastWord.js
-├── README.md
-
-
----
 
 ## 🧭 Obiettivi
 
