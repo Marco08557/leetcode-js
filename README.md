@@ -21,6 +21,7 @@ Questa repository raccoglie le mie soluzioni ai problemi di LeetCode, scritte in
 | 5  | Sort By function              | `sortArray.js`                | `Array.sort()`, funzioni di confronto personalizzate |
 | 6   | Once Function        | `oneFunctionCall.js`     | Closure, variabili di stato                     |
 | 7  | Palindrome Number    | `palindromeNumber.js`  | Stringhe, `.toString()`, `.reverse()`, `.split()`, `.join()` |
+| 8  | Move Zeroes                 | `moveZeroes.js`             | Array, `.splice()`, `.push()`, ciclo inverso, in-place |
 	
 
 
