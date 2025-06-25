@@ -22,6 +22,7 @@ Questa repository raccoglie le mie soluzioni ai problemi di LeetCode, scritte in
 | 6   | Once Function        | `oneFunctionCall.js`     | Closure, variabili di stato                     |
 | 7  | Palindrome Number    | `palindromeNumber.js`  | Stringhe, `.toString()`, `.reverse()`, `.split()`, `.join()` |
 | 8  | Move Zeroes                 | `moveZeroes.js`             | Array, `.splice()`, `.push()`, ciclo inverso, in-place |
+| 9  | Single Number              | `singleNumber.js`            | Ciclo for, Array.filter(), confronto `==`, verifica `.length`, ricerca elemento unico,  |
 	
 
 
@@ -56,3 +57,13 @@ Se vuoi allenarti anche tu, prova a risolvere prima il problema da solo, poi con
 
 Repository aggiornata regolarmente con nuove soluzioni.  
 Seguimi nel mio percorso per diventare un top developer 🔥
+
+---
+## 📢 Nota dell'autore
+
+Tutti i progetti e il codice contenuti in questa repository sono stati scritti interamente da me, senza aiuti esterni o copiature.  
+Questo repository rappresenta il mio lavoro personale e il mio percorso di apprendimento nella programmazione.
+
+Sono felice di condividere qui il risultato dei miei sforzi per migliorare le mie capacità e mostrare i progressi fatti.
+
+---
