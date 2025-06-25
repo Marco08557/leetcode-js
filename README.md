@@ -19,7 +19,8 @@ Questa repository raccoglie le mie soluzioni ai problemi di LeetCode, scritte in
 | 3   | To Be or Not To Be    | `toBeOrNotToBe.js`     | Controllo condizioni, Error handling, Confronti stretti (`===`, `!==`) |
 | 4  | Count arguments passed   | `lengthOfArguments.js`    | Rest parameters (`...args`), `.length` |
 | 5  | Sort By function              | `sortArray.js`                | `Array.sort()`, funzioni di confronto personalizzate |
-| 6  | Palindrome Number    | `palindromeNumber.js`  | Stringhe, `.toString()`, `.reverse()`, `.split()`, `.join()` |
+| 6   | Once Function        | `oneFunctionCall.js`     | Closure, variabili di stato                     |
+| 7  | Palindrome Number    | `palindromeNumber.js`  | Stringhe, `.toString()`, `.reverse()`, `.split()`, `.join()` |
 	
 
 
