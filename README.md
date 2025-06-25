@@ -23,6 +23,7 @@ Questa repository raccoglie le mie soluzioni ai problemi di LeetCode, scritte in
 | 7  | Palindrome Number    | `palindromeNumber.js`  | Stringhe, `.toString()`, `.reverse()`, `.split()`, `.join()` |
 | 8  | Move Zeroes                 | `moveZeroes.js`             | Array, `.splice()`, `.push()`, ciclo inverso, in-place |
 | 9  | Single Number              | `singleNumber.js`            | Ciclo for, Array.filter(), confronto `==`, verifica `.length`, ricerca elemento unico,  |
+| 10  | Missing Number            |  `   missingNumber.js`       | Ordinamento, ciclo for, confronto elemento per elemento, uso array ausiliario, gestione caso numero mancante finale |
 	
 
 
