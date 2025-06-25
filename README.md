@@ -22,7 +22,7 @@ Questa repository raccoglie le mie soluzioni ai problemi di LeetCode, scritte in
 | 6   | Once Function        | `oneFunctionCall.js`     | Closure, variabili di stato                     |
 | 7  | Palindrome Number    | `palindromeNumber.js`  | Stringhe, `.toString()`, `.reverse()`, `.split()`, `.join()` |
 | 8  | Move Zeroes                 | `moveZeroes.js`             | Array, `.splice()`, `.push()`, ciclo inverso, in-place |
-| 9  | Single Number              | singleNumber.js            | Ciclo for, Array.filter(), confronto `==`, verifica `.length`, ricerca elemento unico,  |
+| 9  | Single Number              | `singleNumber.js`            | Ciclo for, Array.filter(), confronto `==`, verifica `.length`, ricerca elemento unico,  |
 	
 
 
