@@ -12,21 +12,24 @@ Questa repository raccoglie le mie soluzioni ai problemi di LeetCode, scritte in
 
 ## ✅ Problemi Risolti
 
-| #   | Problema                        | File                         | Concetti allenati               |
-|-----|----------------------------------|-------------------------------|----------------------------------|
-| 1   | Length of Last Word             | `lastWordLength.js`        | Stringhe, `.trim()`, `.split()` |
-| 2   | Create Counter        | `counter.js`    | Closure, funzioni annidate, incremento|
-| 3   | To Be or Not To Be    | `toBeOrNotToBe.js`     | Controllo condizioni, Error handling, Confronti stretti (`===`, `!==`) |
-| 4  | Count arguments passed   | `lengthOfArguments.js`    | Rest parameters (`...args`), `.length` |
-| 5  | Sort By function              | `sortArray.js`                | `Array.sort()`, funzioni di confronto personalizzate |
-| 6   | Once Function        | `oneFunctionCall.js`     | Closure, variabili di stato                     |
-| 7  | Palindrome Number    | `palindromeNumber.js`  | Stringhe, `.toString()`, `.reverse()`, `.split()`, `.join()` |
-| 8  | Move Zeroes                 | `moveZeroes.js`             | Array, `.splice()`, `.push()`, ciclo inverso, in-place |
-| 9  | Single Number              | `singleNumber.js`            | Ciclo for, Array.filter(), confronto `==`, verifica `.length`, ricerca elemento unico,  |
-| 10  | Missing Number            |  `   missingNumber.js`       | Ordinamento, ciclo for, confronto elemento per elemento, uso array ausiliario, gestione caso numero mancante finale |
-	
-
-
+| #    | Titolo                                 | File JS                   | Difficoltà     |
+|------|----------------------------------------|---------------------------|----------------|
+| 1    | Two Sum                                | `twoSum.js`               | 🟩 Easy         |
+| 9    | Palindrome Number                      | `palindromeNumber.js`     | 🟩 Easy         |
+| 66   | Plus One                               | `plusOne.js`              | 🟩 Easy         |
+| 125  | Valid Palindrome                      | `validPalindrome.js`      | 🟩 Easy         |
+| 136  | Single Number                         | `singleNumber.js`         | 🟩 Easy         |
+| 268  | Missing Number                        | `missingNumber.js`        | 🟩 Easy         |
+| 283  | Move Zeroes                           | `moveZeroes.js`           | 🟩 Easy         |
+| 344  | Reverse String                        | `reverseString.js`        | 🟩 Easy         |
+| 2620 | Counter                               | `counter.js`              | 🟩 Easy         |
+| 2634 | Filter Elements from Array            | `filterElements.js`       | 🟩 Easy         |
+| 2648 | Generate Fibonacci                    | `generateFibonacci.js`    | 🟩 Easy         |
+| 2665 | Counter II                            | `counterII.js`            | 🟩 Easy         |
+| 2703 | Return Length of Arguments            | `returnLengthOfArgs.js`   | 🟩 Easy         |
+| 2704 | To Be or Not To Be                    | `toBeOrNotToBe.js`        | 🟩 Easy         |
+| 2724 | Sort By                               | `sortBy.js`               | 🟩 Easy         |
+| 2727 | Is Object                             | `isObject.js`             | 🟩 Easy         |
 | …   | *(Altri problemi verranno aggiunti)* |                               |                                  |
 
 ---
