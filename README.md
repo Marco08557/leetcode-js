@@ -12,18 +12,21 @@ Questa repository raccoglie le mie soluzioni ai problemi di LeetCode, scritte in
 
 ## ✅ Problemi Risolti
 
-| #    | Titolo                                 | File JS                   | Difficoltà     |
-|------|----------------------------------------|---------------------------|----------------|
-| 9    | Palindrome Number                      | `palindromeNumber.js`     | 🟩 Easy         |
-| 136  | Single Number                         | `singleNumber.js`         | 🟩 Easy         |
-| 268  | Missing Number                        | `missingNumber.js`        | 🟩 Easy         |
-| 283  | Move Zeroes                           | `moveZeroes.js`           | 🟩 Easy         |
-| 2620 | Counter                               | `counter.js`              | 🟩 Easy         |
-| 2634 | Filter Elements from Array            | `filterElements.js`       | 🟩 Easy         |
-| 2703 | Return Length of Arguments            | `lengthOfArguments.js`   | 🟩 Easy         |
-| 2704 | To Be or Not To Be                    | `toBeOrNotToBe.js`        | 🟩 Easy         |
-| 2724 | Sort By                               | `sortArray.js`               | 🟩 Easy         |
-| 2727 | Is Object                             | `isObject.js`             | 🟩 Easy         |
+ Easy Problems:
+
+| #     | Titolo                                     | File JS                   | Difficoltà |
+|-------|--------------------------------------------|---------------------------|------------|
+| 9     | Palindrome Number                          | `palindromeNumber.js`     | 🟩 Easy     |
+| 58    | Length of Last Word                        | `lastWordLenght.js`       | 🟩 Easy     |
+| 136   | Single Number                              | `singleNumber.js`         | 🟩 Easy     |
+| 268   | Missing Number                             | `missingNumber.js`        | 🟩 Easy     |
+| 2703  | Return Length of Arguments                 | `lengthOfArguments.js`    | 🟩 Easy     |
+| 2704  | To Be or Not To Be                         | `toBeOrNotToBe.js`        | 🟩 Easy     |
+| 2724  | Sort By                                    | `sortArray.js`            | 🟩 Easy     |
+| 2620  | Counter                                     | `counter.js`              | 🟩 Easy     |
+| 2665  | Counter II (One Function Call)             | `oneFunctionCall.js`      | 🟩 Easy     |
+| 283   | Move Zeroes                                | `moveZeroes.js`           | 🟩 Easy     |
+
 | …   | *(Altri problemi verranno aggiunti)* |                               |                                  |
 
 ---
