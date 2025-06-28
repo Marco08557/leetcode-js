@@ -14,9 +14,7 @@ Questa repository raccoglie le mie soluzioni ai problemi di LeetCode, scritte in
 
 | #    | Titolo                                 | File JS                   | Difficoltà     |
 |------|----------------------------------------|---------------------------|----------------|
-| 1    | Two Sum                                | `twoSum.js`               | 🟩 Easy         |
 | 9    | Palindrome Number                      | `palindromeNumber.js`     | 🟩 Easy         |
-| 66   | Plus One                               | `plusOne.js`              | 🟩 Easy         |
 | 125  | Valid Palindrome                      | `validPalindrome.js`      | 🟩 Easy         |
 | 136  | Single Number                         | `singleNumber.js`         | 🟩 Easy         |
 | 268  | Missing Number                        | `missingNumber.js`        | 🟩 Easy         |
@@ -24,11 +22,8 @@ Questa repository raccoglie le mie soluzioni ai problemi di LeetCode, scritte in
 | 344  | Reverse String                        | `reverseString.js`        | 🟩 Easy         |
 | 2620 | Counter                               | `counter.js`              | 🟩 Easy         |
 | 2634 | Filter Elements from Array            | `filterElements.js`       | 🟩 Easy         |
-| 2648 | Generate Fibonacci                    | `generateFibonacci.js`    | 🟩 Easy         |
-| 2665 | Counter II                            | `counterII.js`            | 🟩 Easy         |
 | 2703 | Return Length of Arguments            | `returnLengthOfArgs.js`   | 🟩 Easy         |
 | 2704 | To Be or Not To Be                    | `toBeOrNotToBe.js`        | 🟩 Easy         |
-| 2724 | Sort By                               | `sortBy.js`               | 🟩 Easy         |
 | 2727 | Is Object                             | `isObject.js`             | 🟩 Easy         |
 | …   | *(Altri problemi verranno aggiunti)* |                               |                                  |
 
