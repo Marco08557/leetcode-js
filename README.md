@@ -12,19 +12,20 @@ Questa repository raccoglie le mie soluzioni ai problemi di LeetCode, scritte in
 
 ## ✅ Problemi Risolti
 
-| #   | Problema                        | File                         | Concetti allenati               |
-|-----|----------------------------------|-------------------------------|----------------------------------|
-| 1   | Length of Last Word             | `lastWordLength.js`        | Stringhe, `.trim()`, `.split()` |
-| 2   | Create Counter        | `counter.js`    | Closure, funzioni annidate, incremento|
-| 3   | To Be or Not To Be    | `toBeOrNotToBe.js`     | Controllo condizioni, Error handling, Confronti stretti (`===`, `!==`) |
-| 4  | Count arguments passed   | `lengthOfArguments.js`    | Rest parameters (`...args`), `.length` |
-| 5  | Sort By function              | `sortArray.js`                | `Array.sort()`, funzioni di confronto personalizzate |
-| 6   | Once Function        | `oneFunctionCall.js`     | Closure, variabili di stato                     |
-| 7  | Palindrome Number    | `palindromeNumber.js`  | Stringhe, `.toString()`, `.reverse()`, `.split()`, `.join()` |
-| 8  | Move Zeroes                 | `moveZeroes.js`             | Array, `.splice()`, `.push()`, ciclo inverso, in-place |
-| 9  | Single Number              | `singleNumber.js`            | Ciclo for, Array.filter(), confronto `==`, verifica `.length`, ricerca elemento unico,  |
-	
+ Easy Problems:
 
+| #     | Titolo                                     | File JS                   | Difficoltà |
+|-------|--------------------------------------------|---------------------------|------------|
+| 9     | Palindrome Number                          | `palindromeNumber.js`     | 🟩 Easy     |
+| 58    | Length of Last Word                        | `lastWordLenght.js`       | 🟩 Easy     |
+| 136   | Single Number                              | `singleNumber.js`         | 🟩 Easy     |
+| 268   | Missing Number                             | `missingNumber.js`        | 🟩 Easy     |
+| 2703  | Return Length of Arguments                 | `lengthOfArguments.js`    | 🟩 Easy     |
+| 2704  | To Be or Not To Be                         | `toBeOrNotToBe.js`        | 🟩 Easy     |
+| 2724  | Sort By                                    | `sortArray.js`            | 🟩 Easy     |
+| 2620  | Counter                                     | `counter.js`              | 🟩 Easy     |
+| 2665  | Counter II (One Function Call)             | `oneFunctionCall.js`      | 🟩 Easy     |
+| 283   | Move Zeroes                                | `moveZeroes.js`           | 🟩 Easy     |
 
 | …   | *(Altri problemi verranno aggiunti)* |                               |                                  |
 
